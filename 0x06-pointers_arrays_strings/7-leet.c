@@ -19,8 +19,7 @@ while (b < l)
 {
 if (x[a] == tr[b] || x[a] - 32 == tr[b])
 x[a] = trw[b];
-b++;
-`																	}
+b++;																	}
 a++;
 }
 return (x);
