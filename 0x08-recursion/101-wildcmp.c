@@ -13,9 +13,9 @@ char *move(char *s2);
  */
 int wildcmp(char *s1, char *s2)
 {
-/**
-*this is going to be a sum of return values
-*/
+       /**
+       *this is going to be a sum of return values
+        */
 int sum = 0;
 
 /**
