@@ -1,1 +1,1 @@
-My alx project of c
+readme for preprocessor
