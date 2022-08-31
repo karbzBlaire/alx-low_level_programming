@@ -5,7 +5,7 @@
 *andprintthelastdigitofthenumberstoredinthevariablen
 *Return:Always0(Success)
 */
-intmain(void)
+int main(void)
 {
 int i, j;
 
