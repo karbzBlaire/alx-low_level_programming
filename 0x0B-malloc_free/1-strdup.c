@@ -14,7 +14,7 @@ if (str == NULL)
 return (NULL);
 while (str[i])
 i++;
-s = (char *)malloc(i * sizeof(char) + 1);
+strout = (char *)malloc(sizeof(char) * (i + 1));
 if (s == NULL)
 return (NULL);
 while (j < i)
